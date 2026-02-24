@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sasha Torres - Trust & Safety Specialist</title>
+    <style>
+        :root {
+            --primary-color: #0052CC; /* Tech Blue */
+            --text-color: #333333;
+            --light-gray: #f4f5f7;
+            --border-color: #dfe1e6;
+        }
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: var(--text-color);
+            background-color: var(--light-gray);
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 850px;
+            margin: auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 8px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        }
+        header {
+            text-align: center;
+            border-bottom: 2px solid var(--primary-color);
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #172b4d;
+        }
+        h2 {
+            color: var(--primary-color);
+            font-size: 1.2em;
+            margin-top: 5px;
+            font-weight: 500;
+        }
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            flex-wrap: wrap;
+            margin-top: 15px;
+            font-size: 0.95em;
+        }
+        .contact-info a {
+            color: var(--text-color);
+            text-decoration: none;
+        }
+        .contact-info a:hover {
+            color: var(--primary-color);
+        }
+        section {
+            margin-bottom: 30px;
+        }
+        h3 {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 5px;
+            color: #172b4d;
+            font-size: 1.4em;
+            margin-bottom: 15px;
+        }
+        .job {
+            margin-bottom: 25px;
+        }
+        .job-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 10px;
+        }
+        .job-title {
+            font-weight: bold;
+            font-size: 1.1em;
+            color: #172b4d;
+        }
+        .job-company {
+            font-weight: 600;
+            color: var(--primary-color);
+        }
+        .job-date {
+            font-style: italic;
+            color: #6b778c;
+            font-size: 0.9em;
+        }
+        ul {
+            margin-top: 0;
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+        .skills-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+        }
+        .skills-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .skills-list li {
+            background: var(--light-gray);
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin-bottom: 8px;
+            font-size: 0.95em;
+        }
+        @media (max-width: 600px) {
+            .job-header {
+                flex-direction: column;
+            }
+            .job-date {
+                margin-top: 5px;
+            }
+            .skills-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        [cite_start]<h1>Sasha Torres [cite: 130]</h1>
+        <h2>Trust & Safety Specialist | Policy & Risk Governance | [cite_start]Platform Integrity [cite: 172]</h2>
+        <div class="contact-info">
+            [cite_start]<span>📍 London, England, UK [cite: 173]</span>
+            <span>📱 +44 7837 086 163</span>
+            <span>✉️ <a href="mailto:sashasusana@hotmail.com">sashasusana@hotmail.com</a></span>
+            [cite_start]<span>🔗 <a href="https://www.linkedin.com/in/sasha-torres-8298ba58" target="_blank">LinkedIn Profile [cite: 164, 165]</a></span>
+        </div>
+    </header>
+
+    <section>
+        <h3>Profile Summary</h3>
+        [cite_start]<p>I am a Trust & Safety professional with over 4 years of experience within global technology platforms, specialising in policy interpretation, regulatory compliance, and high-risk content governance across international markets[cite: 175]. [cite_start]At TikTok, I have supported high-risk content operations across multiple markets, collaborating with cross-functional teams to strengthen moderation accuracy, operational consistency, and AI-assisted workflows[cite: 134]. [cite_start]Fluent in Spanish, English, and Portuguese [cite: 136] [cite_start]with a unique background in diplomatic operations and recruitment[cite: 136]. [cite_start]Passionate about creating safer digital spaces through policy enforcement and exploring the evolving intersection of AI systems, governance, and platform integrity[cite: 135, 178].</p>
+    </section>
+
+    <section>
+        <h3>Professional Experience</h3>
+        
+        <div class="job">
+            <div class="job-header">
+                <div>
+                    [cite_start]<span class="job-title">Senior Community Content Specialist - Trust & Safety Operations [cite: 181]</span> <br>
+                    [cite_start]<span class="job-company">TikTok (ByteDance) [cite: 138]</span>
+                </div>
+                [cite_start]<div class="job-date">April 2022 - December 2025 [cite: 181]</div>
+            </div>
+            <ul>
+                [cite_start]<li>Applied platform policies across LATAM and EMEA markets, ensuring consistent enforcement in high-risk content areas including misinformation and minor safety[cite: 183, 184].</li>
+                [cite_start]<li>Maintained 94.7% accuracy against a 73.9% market benchmark, balancing compliance, efficiency, and quality expectations[cite: 192, 193].</li>
+                [cite_start]<li>Contributed to process optimisation initiatives, increasing utilisation rates from 61% to 75% while maintaining compliance and quality benchmarks[cite: 144].</li>
+                [cite_start]<li>Conducted root cause analysis to highlight policy gaps and contributed feedback to improve workflows and moderation accuracy[cite: 186].</li>
+                [cite_start]<li>Partnered with Policy, QA, Workflow, and AI Operations teams to strengthen alignment and support continuous process improvements[cite: 187].</li>
+            </ul>
+        </div>
+
+        <div class="job">
+            <div class="job-header">
+                <div>
+                    [cite_start]<span class="job-title">Administrative Secretary & Consular Assistant [cite: 195]</span> <br>
+                    [cite_start]<span class="job-company">Embassy of the Bolivarian Republic of Venezuela [cite: 194]</span>
+                </div>
+                [cite_start]<div class="job-date">January 2015 - March 2022 [cite: 196]</div>
+            </div>
+            <ul>
+                [cite_start]<li>Managed high-volume communication channels, acting as the first point of contact for diplomats, officials, and citizens[cite: 198, 199].</li>
+                [cite_start]<li>Managed sensitive personal data in compliance with strict legal and regulatory frameworks[cite: 202].</li>
+                [cite_start]<li>Coordinated with ambassadors and senior representatives in a fast-paced diplomatic environment[cite: 204].</li>
+                [cite_start]<li>Resolved complex citizen cases requiring discretion, structured analysis, and adherence to governmental regulations[cite: 150].</li>
+            </ul>
+        </div>
+
+        <div class="job">
+            <div class="job-header">
+                <div>
+                    [cite_start]<span class="job-title">Talent Acquisition / Recruiter [cite: 208]</span> <br>
+                    [cite_start]<span class="job-company">ALTEN UK Ltd [cite: 206]</span>
+                </div>
+                [cite_start]<div class="job-date">August 2012 - July 2014 [cite: 209]</div>
+            </div>
+            <ul>
+                [cite_start]<li>Managed the full recruitment lifecycle for engineering and technical roles, from sourcing and screening to offer negotiation and onboarding[cite: 211].</li>
+                [cite_start]<li>Built and maintained structured talent pipelines to support internal and client-facing projects[cite: 212].</li>
+                [cite_start]<li>Conducted interviews and pre-screening assessments, maintaining a 95% candidate satisfaction rate through clear communication and support[cite: 214].</li>
+                [cite_start]<li>Ensured full compliance in recruitment documentation and database management[cite: 213].</li>
+            </ul>
+        </div>
+    </section>
+
+    <section>
+        <h3>Technical Skills & Languages</h3>
+        <div class="skills-grid">
+            <div>
+                <ul class="skills-list">
+                    [cite_start]<li><strong>Languages:</strong> Spanish (Native), English (Fluent), Portuguese (Proficient) [cite: 160]</li>
+                    [cite_start]<li><strong>Compliance:</strong> Trust & Safety compliance, Policy Implementation & Enforcement [cite: 161]</li>
+                    [cite_start]<li><strong>Operations:</strong> KPI Optimization, Data Management [cite: 161]</li>
+                </ul>
+            </div>
+            <div>
+                <ul class="skills-list">
+                    [cite_start]<li><strong>Moderation:</strong> High-risk content governance, AI-assisted workflows [cite: 134, 175]</li>
+                    [cite_start]<li><strong>Management:</strong> Stakeholder Relations Management [cite: 161]</li>
+                    [cite_start]<li><strong>HR:</strong> Recruitment Lifecycle Management, Talent Acquisition [cite: 167]</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <h3>Education</h3>
+        <ul>
+            [cite_start]<li><strong>Personal Assistant Certificate</strong>, International Open Academy, London, 2020 [cite: 158]</li>
+            [cite_start]<li><strong>Business Administration</strong>, Lambeth College, London, 2014 [cite: 158]</li>
+            [cite_start]<li><strong>Data Processing and Administration</strong>, College San Francisco De Sales, Caracas, 2008/2009 [cite: 158, 217]</li>
+        </ul>
+    </section>
+
+</div>
+
+</body>
+</html>
